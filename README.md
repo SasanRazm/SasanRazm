@@ -22,4 +22,4 @@ I'm actively working on the **NSF Expedition: DISCoVER project**, where my resea
 
 ---
 
-> *“Exploring the frontiers of superconducting electronics for the next generation of computing.”*
+*“Exploring the frontiers of superconductor electronics for the next generation of computing.”*
