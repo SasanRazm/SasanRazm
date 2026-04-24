@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Sasan
+# Hi, I'm Sasan
 
 I'm a researcher and lecturer specializing in **cryogenic and superconductor quantum electronics**, currently a research assistant professor in the **SPORT-Lab** at the **Ming Hsieh Department of Electrical and Computer Engineering**, **University of Southern California (USC)**.
 
 ---
 
-## 🔬 Current Research
+## Current Research
 
 I'm actively working on the **NSF Expedition: DISCoVER project**, where my research spans:
 
@@ -15,10 +15,10 @@ I'm actively working on the **NSF Expedition: DISCoVER project**, where my resea
 
 ---
 
-## 📫 Contact & Links
+## Contact & Links
 
-- 🌐 [USC SPORT-Lab](https://sportlab.usc.edu/~sasan/)
-- 🧾 [Google Scholar](https://scholar.google.com.tr/citations?user=eOgza4IAAAAJ&hl=en)
+- [USC SPORT-Lab](https://sportlab.usc.edu/~sasan/)
+- [Google Scholar](https://scholar.google.com.tr/citations?user=eOgza4IAAAAJ&hl=en)
 
 ---
 
