@@ -1,6 +1,6 @@
 # Hi, I'm Sasan
 
-I'm a researcher and lecturer specializing in **cryogenic and superconductor quantum electronics**, currently a research assistant professor in the **SPORT-Lab** at the **Ming Hsieh Department of Electrical and Computer Engineering**, **University of Southern California (USC)**.
+I'm a researcher and lecturer specializing in **cryogenic and superconductor quantum electronics**, currently a research assistant professor in the **SPORT-Lab** at the **Ming Hsieh Department of Electrical and Computer Engineering**,**Viterbi School of Engineering**, **University of Southern California (USC)**.
 
 ---
 
